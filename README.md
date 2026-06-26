@@ -27,7 +27,7 @@ I'm a **B.Sc. Computer Science student** passionate about building scalable and 
 
 ## 🌱 Currently Learning
 
-* jango
+* Django
 * REST API Development
 * Full Stack Web Development
 
