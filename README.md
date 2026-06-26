@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm [Vaishnavi]
 
-<!--
-**Vaishnavi272006/Vaishnavi272006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Python Full Stack Developer | Computer Science Student
 
-Here are some ideas to get you started:
+I'm a **B.Sc. Computer Science student** passionate about building scalable and user-friendly web applications. I enjoy learning new technologies, solving real-world problems, and improving my software development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+* **Languages:** Python, SQL
+* **Frameworks:** Django, Flask
+* **Frontend:** HTML, CSS, JavaScript
+* **Databases:** MySQL
+* **Core Concepts:** OOP, Data Structures & Algorithms, REST APIs
+* **Tools:** Git, GitHub, VS Code, PyCharm, Postman
+
+## 📌 Projects
+
+### 📋 Task Management System
+
+* Built a Python-based CRUD application for efficient task management.
+* Implemented Create, Read, Update, and Delete operations with file handling.
+
+### 🎓 Student Management System
+
+* Developed a console-based application using Python and OOP.
+* Managed student records with file handling and exception handling.
+
+## 🌱 Currently Learning
+
+* jango
+* REST API Development
+* Full Stack Web Development
+
+## 📫 Connect with Me
+
+* **GitHub:** https://github.com/Vaishnavi272006
+* **LinkedIn:** https://www.linkedin.com/in/vaishnavi--m-
+* **Email:** murugesanvaishnavi71@gmail.com
+
+---
+
+⭐ *"Keep learning, keep building, and keep growing."*
